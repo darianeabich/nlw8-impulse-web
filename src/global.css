@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* pode-se trabalhar criando classes */
+/* 
+.button {
+    @apply bg-violet-500 px-4 h-18 rounded text-violet-100;
+}
+*/
